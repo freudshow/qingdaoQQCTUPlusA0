@@ -3,7 +3,7 @@
     "TotalYcCount": 301,
     "TotalYxCount": 84,
     "TotalYkCount": 0,
-    "TotalDDCount": 0,
+    "TotalDDCount": 11,
     "TotalParameterCount": 0,
     "YcRatioEnable": 1,
     "RecordingYkOpera": 0,
@@ -4284,5 +4284,127 @@
     }
   ],
   "YKDataItem": [],
-  "DDDataItem": []
+  "DDDataItem": [
+    {
+      "No": 0,
+      "Name": "设备[0]-当前正向有功总电能-实时库号[833]",
+      "Unit": null,
+      "Addr": 25601,
+      "Xishu": 1.0,
+      "RealDevNo": 833,
+      "type": 3,
+      "CurrentValue": 0.0,
+      "Idx": 0
+    },
+    {
+      "No": 1,
+      "Name": "设备[0]-当前反向有功总电能-实时库号[834]",
+      "Unit": null,
+      "Addr": 25602,
+      "Xishu": 1.0,
+      "RealDevNo": 834,
+      "type": 3,
+      "CurrentValue": 0.0,
+      "Idx": 1
+    },
+    {
+      "No": 2,
+      "Name": "设备[0]-当前费率1反向有功电能-实时库号[835]",
+      "Unit": null,
+      "Addr": 25603,
+      "Xishu": 1.0,
+      "RealDevNo": 835,
+      "type": 3,
+      "CurrentValue": 0.0,
+      "Idx": 2
+    },
+    {
+      "No": 3,
+      "Name": "设备[0]-当前费率2反向有功电能-实时库号[836]",
+      "Unit": null,
+      "Addr": 25604,
+      "Xishu": 1.0,
+      "RealDevNo": 836,
+      "type": 3,
+      "CurrentValue": 0.0,
+      "Idx": 3
+    },
+    {
+      "No": 4,
+      "Name": "设备[0]-当前费率3反向有功电能-实时库号[837]",
+      "Unit": null,
+      "Addr": 25605,
+      "Xishu": 1.0,
+      "RealDevNo": 837,
+      "type": 3,
+      "CurrentValue": 0.0,
+      "Idx": 4
+    },
+    {
+      "No": 5,
+      "Name": "设备[0]-当前费率4反向有功电能-实时库号[838]",
+      "Unit": null,
+      "Addr": 25606,
+      "Xishu": 1.0,
+      "RealDevNo": 838,
+      "type": 3,
+      "CurrentValue": 0.0,
+      "Idx": 5
+    },
+    {
+      "No": 6,
+      "Name": "设备[0]-备用电度1-实时库号[65]",
+      "Unit": null,
+      "Addr": 25607,
+      "Xishu": 1.0,
+      "RealDevNo": 65,
+      "type": 3,
+      "CurrentValue": 0.0,
+      "Idx": 6
+    },
+    {
+      "No": 7,
+      "Name": "设备[0]-备用电度1-实时库号[65]",
+      "Unit": null,
+      "Addr": 25608,
+      "Xishu": 1.0,
+      "RealDevNo": 65,
+      "type": 3,
+      "CurrentValue": 0.0,
+      "Idx": 7
+    },
+    {
+      "No": 8,
+      "Name": "设备[0]-备用电度1-实时库号[65]",
+      "Unit": null,
+      "Addr": 25609,
+      "Xishu": 1.0,
+      "RealDevNo": 65,
+      "type": 3,
+      "CurrentValue": 0.0,
+      "Idx": 8
+    },
+    {
+      "No": 9,
+      "Name": "设备[0]-备用电度1-实时库号[65]",
+      "Unit": null,
+      "Addr": 25610,
+      "Xishu": 1.0,
+      "RealDevNo": 65,
+      "type": 3,
+      "CurrentValue": 0.0,
+      "Idx": 9
+    },
+    {
+      "No": 10,
+      "Name": "设备[0]-备用电度1-实时库号[65]",
+      "Unit": null,
+      "Addr": 25611,
+      "Xishu": 1.0,
+      "RealDevNo": 65,
+      "type": 3,
+      "CurrentValue": 0.0,
+      "Idx": 10
+    }
+  ]
 }
