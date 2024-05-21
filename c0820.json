@@ -1,0 +1,89 @@
+{
+  "applianceName": "未命名",
+  "TotalYcCount": 8,
+  "TotalYxCount": 0,
+  "TotalYkCount": 0,
+  "TotalDDCount": 0,
+  "dataItem": [
+    {
+      "linkNo": 8,
+      "devNo": 0,
+      "RegNo": 0,
+      "type": 1,
+      "Name": "1日发电量",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 8,
+      "devNo": 0,
+      "RegNo": 1,
+      "type": 1,
+      "Name": "1累计发电量",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 8,
+      "devNo": 0,
+      "RegNo": 2,
+      "type": 1,
+      "Name": "2日发电量",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 8,
+      "devNo": 0,
+      "RegNo": 3,
+      "type": 1,
+      "Name": "2累计发电量",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 8,
+      "devNo": 0,
+      "RegNo": 4,
+      "type": 1,
+      "Name": "3日发电量",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 8,
+      "devNo": 0,
+      "RegNo": 5,
+      "type": 1,
+      "Name": "3累计发电量",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 8,
+      "devNo": 0,
+      "RegNo": 6,
+      "type": 1,
+      "Name": "4日发电量",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 8,
+      "devNo": 0,
+      "RegNo": 7,
+      "type": 1,
+      "Name": "4累计发电量",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    }
+  ]
+}
