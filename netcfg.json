@@ -129,7 +129,7 @@
           "mode": 131,
           "ipaddr": "218.56.32.4",
           "LocalPort": 0,
-          "RemotePort": 9054,
+          "RemotePort": 9052,
           "SocketChannelNo": 0,
           "NetChannelNo": 13,
           "TcpServerSet": null
